@@ -1,0 +1,8 @@
+# Task List
+
+- [ ] Add form to [index.html](file:///c:/Users/M.F.S/Desktop/My%20websites/Oculos%20Toda%20Hora/index.html) (phone, address, quantity, color)
+- [ ] Add promotion banner "compra dois por apenas 900mt" to [index.html](file:///c:/Users/M.F.S/Desktop/My%20websites/Oculos%20Toda%20Hora/index.html)
+- [ ] Add testimonials section using images from `images/Depoimentos`
+- [ ] Update `index.html` product imagery to use images from `images/Img`
+- [ ] Update `js/app.js` to handle form submission and redirect to WhatsApp
+- [ ] Add CSS for form and testimonials in `css/styles.css`
